@@ -1,0 +1,15 @@
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\bin\Debug\net7.0\ReturnIdade.exe
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\bin\Debug\net7.0\ReturnIdade.deps.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\bin\Debug\net7.0\ReturnIdade.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\bin\Debug\net7.0\ReturnIdade.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\bin\Debug\net7.0\ReturnIdade.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\refint\ReturnIdade.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ReturnIdade.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\ReturnIdade\ReturnIdade\obj\Debug\net7.0\ref\ReturnIdade.dll
